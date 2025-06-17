@@ -17,7 +17,6 @@
 - Menandai pesan sebagai sudah dibaca.
 - Melihat jumlah pesan yang belum dibaca.
 - Notifikasi saat teman sedang mengetik.
-- Pin pesan penting di dalam room agar tidak tenggelam.
 
 ### 👥 Kelola Room (Grup Chat)
 - Buat room baru dengan cepat.
