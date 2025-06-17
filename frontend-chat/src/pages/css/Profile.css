@@ -1,0 +1,38 @@
+.profile-container {
+  background-color: #f8f9fa;
+  min-height: 100vh;
+}
+
+.profile-card {
+  border-radius: 16px;
+  background: #fff;
+  padding: 1.5rem;
+  border: none;
+}
+
+.profile-image {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #0d6efd;
+  transition: transform 0.3s ease;
+}
+
+.profile-image:hover {
+  transform: scale(1.05);
+}
+
+.profile-info p {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  color: #343a40;
+}
+
+.profile-info strong {
+  color: #212529;
+}
+
+.profile-info span {
+  color: #555;
+}
